@@ -29,7 +29,7 @@
     "@nestjs/platform-express": "^6.10.14",
     "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "mongoose": "^5.8.10",
     "nestjs-typegoose": "^7.0.0",
     "passport": "^0.4.1",
